@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#wrapper {
+	width: 1000px;
+	height: 700px;
+	margin: 50px auto;
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+#wrapper h1 {
+	margin-bottom: 20px;
+}
+
+#image {
+	margin-top: 20px;
+}
